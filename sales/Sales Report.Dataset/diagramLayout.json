@@ -1,0 +1,82 @@
+{
+  "version": "1.1.0",
+  "diagrams": [
+    {
+      "ordinal": 0,
+      "scrollPosition": {
+        "x": 329.60000610351563,
+        "y": 0
+      },
+      "nodes": [
+        {
+          "location": {
+            "x": 547.80555555555543,
+            "y": 0
+          },
+          "nodeIndex": "Sales",
+          "size": {
+            "height": 431.127659574468,
+            "width": 234
+          },
+          "zIndex": 2
+        },
+        {
+          "location": {
+            "x": 183.83564814814812,
+            "y": 2.4675925925925917
+          },
+          "nodeIndex": "Customer",
+          "size": {
+            "height": 216.43981481481484,
+            "width": 234
+          },
+          "zIndex": 4
+        },
+        {
+          "location": {
+            "x": 885.64861111111111,
+            "y": 0
+          },
+          "nodeIndex": "Item master",
+          "size": {
+            "height": 208,
+            "width": 234
+          },
+          "zIndex": 3
+        },
+        {
+          "location": {
+            "x": 227.01851851851853,
+            "y": 272.66898148148147
+          },
+          "nodeIndex": "Cities",
+          "size": {
+            "height": 232,
+            "width": 234
+          },
+          "zIndex": 1
+        },
+        {
+          "location": {
+            "x": 884.62125776574953,
+            "y": 257.91489361702128
+          },
+          "nodeIndex": "Sales Rep Master",
+          "size": {
+            "height": 280,
+            "width": 234
+          },
+          "zIndex": 5
+        }
+      ],
+      "name": "All tables",
+      "zoomValue": 81.034482758620683,
+      "pinKeyFieldsToTop": false,
+      "showExtraHeaderInfo": false,
+      "hideKeyFieldsWhenCollapsed": false,
+      "tablesLocked": false
+    }
+  ],
+  "selectedDiagram": "All tables",
+  "defaultDiagram": "All tables"
+}
